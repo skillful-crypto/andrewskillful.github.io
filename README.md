@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew Oladapo 👋
+# Hi there, I'm Andrew Ajayi 👋
 
 <div align="center">
 
