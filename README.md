@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+Data+Analyst;MySQL+%7C+Excel+%7C+Flask;Remote-Ready+from+Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Open+to+Freelance+%26+Full-time+Roles)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Data+Analyst;MySQL+%7C+Excel+%7C+Flask;Remote-Ready+from+Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Open+to+Freelance+%26+Full-time+Roles)
 
 </div>
 
@@ -12,10 +12,10 @@
 
 ```python
 andrew = {
-    "name"       : "Andrew Oladapo",
+    "name"       : "Andrew Ajayi",
     "location"   : "Lagos, Nigeria 🇳🇬",
     "education"  : "B.Eng Electrical & Electronics — Osun State University",
-    "role"       : ["Python Developer", "Data Analyst", "Project Manager"],
+    "role"       : ["Software Developer", "Data Analyst", "Project Manager"],
     "available"  : True,
     "work_type"  : ["Remote", "Freelance", "Full-time"],
     "interests"  : ["Data Science", "Web APIs", "Automation", "Clean Energy Tech"],
@@ -28,7 +28,7 @@ andrew = {
 - 🏥 NYSC experience at National Hospital Abuja (Electrical Dept.)
 - 📊 I turn messy data into clean insights using Python & Excel
 - 🤝 Open to remote roles in Python dev, data analysis, and project management
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **andrewajayi8@gmail.com**
 
 ---
 
